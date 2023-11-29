@@ -1,2 +1,2 @@
-# project-soviet
-the game im creating about the russian civil war
+# school work
+this is work ive done in uni plus some other stuff
